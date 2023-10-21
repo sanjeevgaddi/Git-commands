@@ -62,5 +62,5 @@ git diff [source branch] [target branch]	Preview changes before merging</br>
 
 
 -------------------------------------------------------------------------------------------------------------------------------
-NAME
-git - the stupid content tracker
+NAME</br>
+git - the stupid content tracker</br>
