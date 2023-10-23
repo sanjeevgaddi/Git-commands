@@ -61,6 +61,45 @@ git log --oneline	View changes (briefly)</br>
 git diff [source branch] [target branch]	Preview changes before merging</br>
 
 
+==============================================================================================================================
+
+Setup and Config</br>
+
+===============================================================================================================================
+
 -------------------------------------------------------------------------------------------------------------------------------
+
 NAME</br>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 git - the stupid content tracker</br>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+SYNOPSIS</br>
+
+-------------------------------------------------------------------------------------------------------------------------------
+git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+    [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+    [-p|--paginate|-P|--no-pager] [--no-replace-objects] [--bare]
+    [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+    [--config-env=<name>=<envvar>] <command> [<args>]</br>
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+DESCRIPTION</br>
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.</br>
+
+See gittutorial[7] to get started, then see giteveryday[7] for a useful minimum set of commands. The Git User’s Manual has a more in-depth introduction.</br>
+
+After you mastered the basic concepts, you can come back to this page to learn what commands Git offers. You can learn more about individual Git commands with "git help command". gitcli[7] manual page gives you an overview of the command-line command syntax.</br>
+
+A formatted and hyperlinked copy of the latest Git documentation can be viewed at https://git.github.io/htmldocs/git.html or https://git-scm.com/docs.</br>
+
