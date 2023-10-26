@@ -200,3 +200,267 @@ List commands by group. This is an internal/experimental option and may change o
 --attr-source=<tree-ish></br>
 Read gitattributes from <tree-ish> instead of the worktree. See gitattributes[5]. This is equivalent to setting the GIT_ATTR_SOURCE environment variable.</br>
 
+GIT COMMANDS</br>
+
+We divide Git into high level ("porcelain") commands and low level ("plumbing") commands.</br>
+
+
+High-level commands (porcelain)</br>
+We separate the porcelain commands into the main commands and some ancillary user utilities.</br>
+
+Main porcelain commands</br>
+
+git-add[1]</br>
+Add file contents to the index</br>
+
+git-am[1]</br>
+Apply a series of patches from a mailbox</br>
+
+git-archive[1]</br>
+Create an archive of files from a named tree</br>
+
+git-bisect[1]</br>
+Use binary search to find the commit that introduced a bug</br>
+
+git-branch[1]</br>
+List, create, or delete branches</br>
+
+git-bundle[1]</br>
+Move objects and refs by archive</br>
+
+git-checkout[1]</br>
+Switch branches or restore working tree files</br>
+
+git-cherry-pick[1]</br>
+Apply the changes introduced by some existing commits</br>
+
+git-citool[1]</br>
+Graphical alternative to git-commit</br>
+
+git-clean[1]</br>
+Remove untracked files from the working tree</br>
+
+git-clone[1]</br>
+Clone a repository into a new directory</br>
+
+git-commit[1]</br>
+Record changes to the repository</br>
+
+git-describe[1]</br>
+Give an object a human readable name based on an available ref</br>
+
+git-diff[1]</br>
+Show changes between commits, commit and working tree, etc</br>
+
+git-fetch[1]</br>
+Download objects and refs from another repository</br>
+
+git-format-patch[1]</br>
+Prepare patches for e-mail submission</br>
+
+git-gc[1]</br>
+Cleanup unnecessary files and optimize the local repository</br>
+
+git-grep[1]</br>
+Print lines matching a pattern</br>
+
+git-gui[1]</br>
+A portable graphical interface to Git</br>
+
+git-init[1]</br>
+Create an empty Git repository or reinitialize an existing one</br>
+
+git-log[1]</br>
+Show commit logs</br>
+
+git-maintenance[1]</br>
+Run tasks to optimize Git repository data</br>
+
+git-merge[1]</br>
+Join two or more development histories together</br>
+
+git-mv[1]</br>
+Move or rename a file, a directory, or a symlink</br>
+
+git-notes[1]</br>
+Add or inspect object notes</br>
+
+git-pull[1]</br>
+Fetch from and integrate with another repository or a local branch</br>
+
+git-push[1]</br>
+Update remote refs along with associated objects</br>
+
+git-range-diff[1]</br>
+Compare two commit ranges (e.g. two versions of a branch)</br>
+
+git-rebase[1]</br>
+Reapply commits on top of another base tip</br>
+
+git-reset[1]</br>
+Reset current HEAD to the specified state</br>
+
+git-restore[1]</br>
+Restore working tree files</br>
+
+git-revert[1]</br>
+Revert some existing commits</br>
+
+git-rm[1]</br>
+Remove files from the working tree and from the index</br>
+
+git-shortlog[1]</br>
+Summarize git log output</br>
+
+git-show[1]</br>
+Show various types of objects</br>
+
+git-sparse-checkout[1]</br>
+Reduce your working tree to a subset of tracked files</br>
+
+git-stash[1]</br>
+Stash the changes in a dirty working directory away</br>
+
+git-status[1]</br>
+Show the working tree status</br>
+
+git-submodule[1]</br>
+Initialize, update or inspect submodules</br>
+
+git-switch[1]</br>
+Switch branches</br>
+
+git-tag[1]</br>
+Create, list, delete or verify a tag object signed with GPG</br>
+
+git-worktree[1]</br>
+Manage multiple working trees</br>
+
+gitk[1]</br>
+The Git repository browser</br>
+
+scalar[1]</br>
+A tool for managing large Git repositories</br>
+
+Ancillary Commands</br>
+Manipulators:</br>
+
+git-config[1]</br>
+Get and set repository or global options</br>
+
+git-fast-export[1]</br>
+Git data exporter</br>
+
+git-fast-import[1]</br>
+Backend for fast Git data importers</br>
+
+git-filter-branch[1]</br>
+Rewrite branches</br>
+
+git-mergetool[1]</br>
+Run merge conflict resolution tools to resolve merge conflicts</br>
+
+git-pack-refs[1]</br>
+Pack heads and tags for efficient repository access</br>
+
+git-prune[1]</br>
+Prune all unreachable objects from the object database</br>
+
+git-reflog[1]</br>
+Manage reflog information</br>
+
+git-remote[1]</br>
+Manage set of tracked repositories</br>
+
+git-repack[1]</br>
+Pack unpacked objects in a repository</br>
+
+git-replace[1]</br>
+Create, list, delete refs to replace objects</br>
+
+Interrogators:</br>
+
+git-annotate[1]</br>
+Annotate file lines with commit information</br>
+
+git-blame[1]</br>
+Show what revision and author last modified each line of a file</br>
+
+git-bugreport[1]</br>
+Collect information for user to file a bug report</br>
+
+git-count-objects[1]</br>
+Count unpacked number of objects and their disk consumption</br>
+
+git-diagnose[1]</br>
+Generate a zip archive of diagnostic information</br>
+
+git-difftool[1]</br>
+Show changes using common diff tools</br>
+
+git-fsck[1]
+Verifies the connectivity and validity of the objects in the database
+
+git-help[1]
+Display help information about Git
+
+git-instaweb[1]
+Instantly browse your working repository in gitweb
+
+git-merge-tree[1]
+Perform merge without touching index or working tree
+
+git-rerere[1]
+Reuse recorded resolution of conflicted merges
+
+git-show-branch[1]
+Show branches and their commits
+
+git-verify-commit[1]
+Check the GPG signature of commits
+
+git-verify-tag[1]
+Check the GPG signature of tags
+
+git-version[1]
+Display version information about Git
+
+git-whatchanged[1]
+Show logs with difference each commit introduces
+
+gitweb[1]
+Git web interface (web frontend to Git repositories)
+
+Interacting with Others
+These commands are to interact with foreign SCM and with other people via patch over e-mail.
+
+git-archimport[1]
+Import a GNU Arch repository into Git
+
+git-cvsexportcommit[1]
+Export a single commit to a CVS checkout
+
+git-cvsimport[1]
+Salvage your data out of another SCM people love to hate
+
+git-cvsserver[1]
+A CVS server emulator for Git
+
+git-imap-send[1]
+Send a collection of patches from stdin to an IMAP folder
+
+git-p4[1]
+Import from and submit to Perforce repositories
+
+git-quiltimport[1]
+Applies a quilt patchset onto the current branch
+
+git-request-pull[1]
+Generates a summary of pending changes
+
+git-send-email[1]
+Send a collection of patches as emails
+
+git-svn[1]
+Bidirectional operation between a Subversion repository and Git
+
