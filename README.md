@@ -398,69 +398,69 @@ Generate a zip archive of diagnostic information</br>
 git-difftool[1]</br>
 Show changes using common diff tools</br>
 
-git-fsck[1]
-Verifies the connectivity and validity of the objects in the database
+git-fsck[1]</br>
+Verifies the connectivity and validity of the objects in the database</br>
 
-git-help[1]
-Display help information about Git
+git-help[1]</br>
+Display help information about Git</br>
 
-git-instaweb[1]
-Instantly browse your working repository in gitweb
+git-instaweb[1]</br>
+Instantly browse your working repository in gitweb</br>
 
-git-merge-tree[1]
-Perform merge without touching index or working tree
+git-merge-tree[1]</br>
+Perform merge without touching index or working tree</br>
 
-git-rerere[1]
-Reuse recorded resolution of conflicted merges
+git-rerere[1]</br>
+Reuse recorded resolution of conflicted merges</br>
 
-git-show-branch[1]
-Show branches and their commits
+git-show-branch[1]</br>
+Show branches and their commits</br>
 
-git-verify-commit[1]
-Check the GPG signature of commits
+git-verify-commit[1]</br>
+Check the GPG signature of commits</br>
 
-git-verify-tag[1]
-Check the GPG signature of tags
+git-verify-tag[1]</br>
+Check the GPG signature of tags</br>
 
-git-version[1]
-Display version information about Git
+git-version[1]</br>
+Display version information about Git</br>
 
-git-whatchanged[1]
-Show logs with difference each commit introduces
+git-whatchanged[1]</br>
+Show logs with difference each commit introduces</br>
 
-gitweb[1]
-Git web interface (web frontend to Git repositories)
+gitweb[1]</br>
+Git web interface (web frontend to Git repositories)</br>
 
-Interacting with Others
-These commands are to interact with foreign SCM and with other people via patch over e-mail.
+Interacting with Others</br>
+These commands are to interact with foreign SCM and with other people via patch over e-mail.</br>
 
-git-archimport[1]
-Import a GNU Arch repository into Git
+git-archimport[1]</br>
+Import a GNU Arch repository into Git</br>
 
-git-cvsexportcommit[1]
-Export a single commit to a CVS checkout
+git-cvsexportcommit[1]</br>
+Export a single commit to a CVS checkout</br>
 
-git-cvsimport[1]
-Salvage your data out of another SCM people love to hate
+git-cvsimport[1]</br>
+Salvage your data out of another SCM people love to hate</br>
 
-git-cvsserver[1]
-A CVS server emulator for Git
+git-cvsserver[1]</br>
+A CVS server emulator for Git</br>
 
-git-imap-send[1]
-Send a collection of patches from stdin to an IMAP folder
+git-imap-send[1]</br>
+Send a collection of patches from stdin to an IMAP folder</br>
 
-git-p4[1]
-Import from and submit to Perforce repositories
+git-p4[1]</br>
+Import from and submit to Perforce repositories</br>
 
-git-quiltimport[1]
-Applies a quilt patchset onto the current branch
+git-quiltimport[1]</br>
+Applies a quilt patchset onto the current branch</br>
 
-git-request-pull[1]
-Generates a summary of pending changes
+git-request-pull[1]</br>
+Generates a summary of pending changes</br>
 
-git-send-email[1]
-Send a collection of patches as emails
+git-send-email[1]</br>
+Send a collection of patches as emails</br>
 
-git-svn[1]
-Bidirectional operation between a Subversion repository and Git
+git-svn[1]</br>
+Bidirectional operation between a Subversion repository and Git</br>
 
