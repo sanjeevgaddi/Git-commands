@@ -2,11 +2,11 @@
 
 
 
-Translated Versions
+Translated Versions</br>
 
-A list of my commonly used Git commands
+A list of my commonly used Git commands</br>
 
-Getting & Creating Projects
+Getting & Creating Projects</br>
 
 Command	Description</br>
 git init	Initialize a local Git repository</br>
