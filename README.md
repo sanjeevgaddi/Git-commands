@@ -25,7 +25,7 @@ Branching & Merging
 Command	Description
 
 git branch	List branches (the asterisk denotes the current branch)</br>
-git branch -a	List all branches (local and remote)</br>
+git branch -a List all branches (local and remote)</br>
 git branch [branch name]	Create a new branch</br>
 git branch -d [branch name]	Delete a branch</br>
 git push origin --delete [branch name]	Delete a remote branch</br>
@@ -41,8 +41,8 @@ git stash	Stash changes in a dirty working directory</br>
 git stash clear	Remove all stashed entries</br>
 
 
-Sharing & Updating Projects
-Command	Description
+Sharing & Updating Projects,/br>
+Command	Description</br>
 
 
 git push origin [branch name]	Push a branch to your remote repository</br>
