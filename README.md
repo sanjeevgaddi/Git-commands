@@ -200,7 +200,13 @@ List commands by group. This is an internal/experimental option and may change o
 --attr-source=<tree-ish></br>
 Read gitattributes from <tree-ish> instead of the worktree. See gitattributes[5]. This is equivalent to setting the GIT_ATTR_SOURCE environment variable.</br>
 
+==============================================================================================================================
+
 GIT COMMANDS</br>
+
+===============================================================================================================================
+
+
 
 We divide Git into high level ("porcelain") commands and low level ("plumbing") commands.</br>
 
