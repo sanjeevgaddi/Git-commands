@@ -443,6 +443,108 @@ These commands are to interact with foreign SCM and with other people via patch 
 git-archimport[1]</br>
 Import a GNU Arch repository into Git</br>
 
+
+Internal helper commands
+These are internal helper commands used by other commands; end users typically do not use them directly.
+
+git-check-attr[1]
+Display gitattributes information
+
+git-check-ignore[1]
+Debug gitignore / exclude files
+
+git-check-mailmap[1]
+Show canonical names and email addresses of contacts
+
+git-check-ref-format[1]
+Ensures that a reference name is well formed
+
+git-column[1]
+Display data in columns
+
+git-credential[1]
+Retrieve and store user credentials
+
+git-credential-cache[1]
+Helper to temporarily store passwords in memory
+
+git-credential-store[1]
+Helper to store credentials on disk
+
+git-fmt-merge-msg[1]
+Produce a merge commit message
+
+git-hook[1]
+Run git hooks
+
+git-interpret-trailers[1]
+Add or parse structured information in commit messages
+
+git-mailinfo[1]
+Extracts patch and authorship from a single e-mail message
+
+git-mailsplit[1]
+Simple UNIX mbox splitter program
+
+git-merge-one-file[1]
+The standard helper program to use with git-merge-index
+
+git-patch-id[1]
+Compute unique ID for a patch
+
+git-sh-i18n[1]
+Git’s i18n setup code for shell scripts
+
+git-sh-setup[1]
+Common Git shell script setup code
+
+git-stripspace[1]
+Remove unnecessary whitespace
+
+Guides
+The following documentation pages are guides about Git concepts.
+
+gitcore-tutorial[7]
+A Git core tutorial for developers
+
+gitcredentials[7]
+Providing usernames and passwords to Git
+
+gitcvs-migration[7]
+Git for CVS users
+
+gitdiffcore[7]
+Tweaking diff output
+
+giteveryday[7]
+A useful minimum set of commands for Everyday Git
+
+gitfaq[7]
+Frequently asked questions about using Git
+
+gitglossary[7]
+A Git Glossary
+
+gitnamespaces[7]
+Git namespaces
+
+gitremote-helpers[7]
+Helper programs to interact with remote repositories
+
+gitsubmodules[7]
+Mounting one repository inside another
+
+gittutorial[7]
+A tutorial introduction to Git
+
+gittutorial-2[7]
+A tutorial introduction to Git: part two
+
+gitworkflows[7]
+An overview of recommended workflows with Git
+
+
+
 git-cvsexportcommit[1]</br>
 Export a single commit to a CVS checkout</br>
 
