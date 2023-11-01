@@ -444,29 +444,29 @@ git-archimport[1]</br>
 Import a GNU Arch repository into Git</br>
 
 
-Internal helper commands
-These are internal helper commands used by other commands; end users typically do not use them directly.
+Internal helper commands</br>
+These are internal helper commands used by other commands; end users typically do not use them directly.</br>
 
-git-check-attr[1]
-Display gitattributes information
+git-check-attr[1]</br>
+Display gitattributes information</br>
 
-git-check-ignore[1]
-Debug gitignore / exclude files
+git-check-ignore[1]</br>
+Debug gitignore / exclude files</br>
 
-git-check-mailmap[1]
-Show canonical names and email addresses of contacts
+git-check-mailmap[1]</br>
+Show canonical names and email addresses of contacts</br>
 
-git-check-ref-format[1]
-Ensures that a reference name is well formed
+git-check-ref-format[1]</br>
+Ensures that a reference name is well formed</br>
 
-git-column[1]
-Display data in columns
+git-column[1]</br>
+Display data in columns</br>
 
-git-credential[1]
-Retrieve and store user credentials
+git-credential[1]</br>
+Retrieve and store user credentials</br>
 
-git-credential-cache[1]
-Helper to temporarily store passwords in memory
+git-credential-cache[1]</br>
+Helper to temporarily store passwords in memory</br>
 
 git-credential-store[1]
 Helper to store credentials on disk
