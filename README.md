@@ -21,8 +21,12 @@ git add -A	Add all new and changed files to the staging area</br>
 git commit -m "[commit message]"	Commit changes</br>
 git rm -r [file-name.txt]	Remove a file (or folder)</br>
 
-Branching & Merging
-Command	Description</br>
+
+==============================================================================================================================
+
+Branching & Merging Command	Description</br>
+
+===============================================================================================================================
 
 git branch	List branches (the asterisk denotes the current branch)</br>
 git branch -a List all branches (local and remote)</br>
@@ -41,8 +45,13 @@ git stash	Stash changes in a dirty working directory</br>
 git stash clear	Remove all stashed entries</br>
 
 
-Sharing & Updating Projects,
-Command	Description</br>
+
+==============================================================================================================================
+
+Sharing & Updating Projects, Command	Description</br>
+
+===============================================================================================================================
+
 
 
 git push origin [branch name]	Push a branch to your remote repository</br>
@@ -174,7 +183,7 @@ Set the path to the working tree. It can be an absolute path or a path relative 
 Set the Git namespace. See gitnamespaces[7] for more details. Equivalent to setting the GIT_NAMESPACE environment variable.</br>
 
 --bare</br>
-Treat the repository as a bare repository. If GIT_DIR environment is not set, it is set to the current working directory.</br>
+Treat the repository as a bare repository. If GIT_DIR environment is not set, it is set to the current working directory. </br>
 
 --no-replace-objects</br>
 Do not use replacement refs to replace Git objects. See git-replace[1] for more information.</br>
