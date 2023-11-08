@@ -468,80 +468,80 @@ Retrieve and store user credentials</br>
 git-credential-cache[1]</br>
 Helper to temporarily store passwords in memory</br>
 
-git-credential-store[1]
-Helper to store credentials on disk
+git-credential-store[1]</br>
+Helper to store credentials on disk</br>
 
-git-fmt-merge-msg[1]
-Produce a merge commit message
+git-fmt-merge-msg[1]</br>
+Produce a merge commit message</br>
 
-git-hook[1]
-Run git hooks
+git-hook[1]</br>
+Run git hooks</br>
 
-git-interpret-trailers[1]
-Add or parse structured information in commit messages
+git-interpret-trailers[1]</br>
+Add or parse structured information in commit messages</br>
 
-git-mailinfo[1]
-Extracts patch and authorship from a single e-mail message
+git-mailinfo[1]</br>
+Extracts patch and authorship from a single e-mail message</br>
 
-git-mailsplit[1]
-Simple UNIX mbox splitter program
+git-mailsplit[1]</br>
+Simple UNIX mbox splitter program</br>
 
-git-merge-one-file[1]
-The standard helper program to use with git-merge-index
+git-merge-one-file[1]</br>
+The standard helper program to use with git-merge-index</br>
 
-git-patch-id[1]
-Compute unique ID for a patch
+git-patch-id[1]</br>
+Compute unique ID for a patch</br>
 
-git-sh-i18n[1]
-Git’s i18n setup code for shell scripts
+git-sh-i18n[1]</br>
+Git’s i18n setup code for shell scripts</br>
 
-git-sh-setup[1]
-Common Git shell script setup code
+git-sh-setup[1]</br>
+Common Git shell script setup code</br>
 
-git-stripspace[1]
-Remove unnecessary whitespace
+git-stripspace[1]</br>
+Remove unnecessary whitespace</br>
 
-Guides
-The following documentation pages are guides about Git concepts.
+Guides</br>
+The following documentation pages are guides about Git concepts.</br>
 
-gitcore-tutorial[7]
-A Git core tutorial for developers
+gitcore-tutorial[7]</br>
+A Git core tutorial for developers</br>
 
-gitcredentials[7]
-Providing usernames and passwords to Git
+gitcredentials[7]</br>
+Providing usernames and passwords to Git</br>
 
-gitcvs-migration[7]
-Git for CVS users
+gitcvs-migration[7]</br>
+Git for CVS users</br>
 
-gitdiffcore[7]
-Tweaking diff output
+gitdiffcore[7]</br>
+Tweaking diff output</br>
 
-giteveryday[7]
-A useful minimum set of commands for Everyday Git
+giteveryday[7]</br>
+A useful minimum set of commands for Everyday Git</br>
 
-gitfaq[7]
-Frequently asked questions about using Git
+gitfaq[7]</br>
+Frequently asked questions about using Git</br>
 
-gitglossary[7]
-A Git Glossary
+gitglossary[7]</br>
+A Git Glossary</br>
 
-gitnamespaces[7]
-Git namespaces
+gitnamespaces[7]</br>
+Git namespaces</br>
 
-gitremote-helpers[7]
-Helper programs to interact with remote repositories
+gitremote-helpers[7]</br>
+Helper programs to interact with remote repositories</br>
 
-gitsubmodules[7]
-Mounting one repository inside another
+gitsubmodules[7]</br>
+Mounting one repository inside another</br>
 
-gittutorial[7]
-A tutorial introduction to Git
+gittutorial[7]</br>
+A tutorial introduction to Git</br>
 
-gittutorial-2[7]
-A tutorial introduction to Git: part two
+gittutorial-2[7]</br>
+A tutorial introduction to Git: part two</br>
 
-gitworkflows[7]
-An overview of recommended workflows with Git
+gitworkflows[7]</br>
+An overview of recommended workflows with Git</br>
 
 
 
